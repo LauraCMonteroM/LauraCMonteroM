@@ -8,7 +8,7 @@ I have been studying web development in Laboratoria, before I had a technologist
 
 * 🌍  I'm based in Bogotá, Colombia
 * ✉️  You can contact me at [lauramontero205@gmail.com](mailto:lauramontero205@gmail.com)
-* 🚀  I'm currently working on [Burger Queen Api Client](http://github.com/LauraCMonteroM/DEV005-burger-queen-api-client) and [Ticket Master]([http://github.com/LauraCMonteroM/DEV005-burger-queen-api-client](https://github.com/LauraCMonteroM/TicketMaster/tree/EventItemFeature/ticketmaster-events))
+* 🚀  I'm currently working on [Burger Queen Api Client](http://github.com/LauraCMonteroM/DEV005-burger-queen-api-client) and [Ticket Master]([https://github.com/LauraCMonteroM/TicketMaster/tree/EventItemFeature/ticketmaster-events])
 * 🧠  I'm learning JavaScript and React
 * ⚡  I love to sing🎤, ride a bicycle 🚴‍♀️, play the drum 🥁 and to learn new things 💻
 
